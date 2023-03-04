@@ -16,7 +16,7 @@ Jqurey 사용 이후 Vue 사용에 익숙해 지고자 모든 Jquery를 Vue로 �
 v0.2
 Vue CLI를 통해 통합되어 있던 component를 여러 component로 변경 완료
 ```
-mainPage.vue(whiteBoard.vue)   
+mainPage.vue (whiteBoard.vue)   
 <img src = "mainPage_whiteBoard.png">
    
 modal.vue   
